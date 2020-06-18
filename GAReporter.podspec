@@ -24,7 +24,7 @@ s.source = { :git => "https://github.com/quinn-enclave/GAReporter.git",
              :tag => "#{s.version}" }
 
 # 7 - Frameworks, libraries and dependencies
-s.vendored_libraries = ['GAReporter/Libraries/libGoogleAnalytics.a', 'GAReporter/Libraries/libAdIdAccessLibrary.a']
+s.vendored_libraries = ['GAReporter/Libraries/libAdIdAccessLibrary.a']
 s.frameworks = ['CoreData', 'SystemConfiguration']
 s.libraries = ['z', 'sqlite3']
 
