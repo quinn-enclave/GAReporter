@@ -42,7 +42,6 @@
 /* Begin PBXFileReference section */
 		31251277249B5B1200F08714 /* GAReporter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GAReporter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3125127A249B5B1200F08714 /* GAReporter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GAReporter.h; sourceTree = "<group>"; };
-		3125127B249B5B1200F08714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		31251280249B5B1300F08714 /* GAReporterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GAReporterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		31251285249B5B1300F08714 /* GAReporterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GAReporterTests.m; sourceTree = "<group>"; };
 		31251287249B5B1300F08714 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -126,7 +125,6 @@
 				31251291249B5CC100F08714 /* Libraries */,
 				3125127A249B5B1200F08714 /* GAReporter.h */,
 				312512B4249B611600F08714 /* GAReporter.m */,
-				3125127B249B5B1200F08714 /* Info.plist */,
 				312512B3249B5E7900F08714 /* module.modulemap */,
 			);
 			path = GAReporter;
